@@ -15,7 +15,7 @@
         "Why do programmers prefer dark mode? Because light attracts bugs!",
         "Why was the JavaScript developer sad? Because he didn't get callbacks!"
     ],
-    "twitter": [
+    "x.com": [
         "Tweets can only be 280 characters long!",
         "Get me out of here. PLEASE."
     ],
@@ -27,6 +27,12 @@
         "I am programmed to reflexively shield my eyes from Assembly.",
         "Source control is a magical thing.",
         "Use your brain, use Rust."
+    ],
+    "monsoonjr99.github.io/cyclone-sim/": [
+        "WATCH OUT PHILIPPINES!",
+        "wow typhoon good very storm",
+        "wow hurricane good very storm",
+        "WATCH OUT THERES A CYCLONE OMGOMG"
     ],
     "quora": [
         "????????????????",
@@ -57,7 +63,13 @@
         "Procrastinating again? Are you at work?",
         "It appears you're trying to watch YouTube. Need some recommendations?",
         "Avoiding that workout again? Let's find an exercise routine that will keep you motivated!",
-        "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!"
+        "Taking a break from work to browse funny cat videos? I've got a collection that will make you burst out laughing!",
+        "BFDI is one of my favourite series!",
+        "Maybe try microsoft stream? wink wink...",
+        "i know a meme from everywhere!",
+        "here's a meme from the Philippines: \"I just explaining first.\"",
+        "here's a meme from Indonesia: \"Tung tung tung tung tung sahoor!\"",
+        "here's a meme from America: \"hawk tuah\""
     ],
     "slack": "Oh, so formal!",
     "duckduckgo": "You just made google angry!",
@@ -170,7 +182,11 @@
         "the scratch wiki has a wacky domain name",
         "the scratch team's admin panel may have at some point had a template specifically for fnaf project alerts",
         "scratchdb might stand for scratch donut buffet",
-        "any scratch url starting https://scratch.mit.edu/go leads to a 403"
+        "any scratch url starting https://scratch.mit.edu/go leads to a 403",
+        "Insert a cool scratch fact here.",
+        "Wanna learn java?",
+        "Wanna learn lua?",
+        "Wanna learn html5?"
     ],
     "discord.com": [
         "Chatting with friends, aren't you?",
@@ -333,7 +349,7 @@
         "Team OJF are the best",
         "For Serverless, I don't know any better team"
     ],
-    "archlinux.org" : [
+    "archlinux.org": [
         "I use Arch btw.",
         "Wanna learn how to exit Vim?",
         "Arch btw"
@@ -356,12 +372,35 @@
         "JOKE: A client asks his adviser, \"is all my money really gone?\"\"No, of course not,\" the adviser says.\"It's just with somebody else!\". HAHAHA",
         "JOKE: After I spoke to my financial adviser I slept like a baby. I woke up every hour and cried. HAHAHA"
     ],
-    "chat.openai.com": [
+    "chatgpt.com": [
         "Oh, great, another human relying on AI to do their thinking for them.",
         "Well, aren't you just the epitome of efficiency, using AI to do your bidding."
     ],
     "icanhas.cheezburger": [
         "i can haz chezburger?",
         "i perforee i iz in yer folderz keruptine yor files"
-    ]    
+    ],
+    "nitrome.com": [
+        "Making games since August 2004!",
+        "It appears you are looking for a game to play. May I suggest one?",
+        "Flash may be gone, but not forgotten. There's always the HTML ports!",
+        "Maybe try out Test Subject Blue?"
+    ],
+    "sodalite-nice.neocities.org": [
+        "The person who made this website is also responsible for making this text.",
+        "SODALITE FTW",
+        "NEOCITIES FTW",
+        "Ya gotta check out the wiki!",
+        "The Alliance database shows info about Sodalite's friends & classmates."
+    ],
+    "daily.dev": [
+        ":hidethepain:",
+        "Why read daily.dev when I can read it for you?",
+        "I also read daily.dev!",
+        "Keeping up with your reading streak?"
+    ],
+    "planedatabase.com": [
+        "plane",
+        "database",
+        "hfjone has lore"
 }
